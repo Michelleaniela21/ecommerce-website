@@ -38,7 +38,7 @@ Berikut adalah beberapa tampilan dari web Recloth :
 - Halaman Utama
   ![Home](screenshots/Home.png)
 - Kategori Produk
-  ![Kategori](screenshots/category.png)
+  ![Category](screenshots/category.png)
 - Tampilan Cart
   ![Cart](screenshots/Cart.png)
 - Keranjang Belanja
@@ -48,3 +48,4 @@ Berikut adalah beberapa tampilan dari web Recloth :
 Michelle Aniela Wijaya
 Mahasiswa yang sedang mempelajari pemrograman web dan pengelolaan database dengan PHP & MySQL.
 Project ini dibuat sebagai bagian dari proses belajar dan untuk memenuhi tugas perkuliahan mata kuliah Algoritma dan Pemrogaman II
+
