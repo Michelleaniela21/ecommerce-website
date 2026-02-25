@@ -24,14 +24,26 @@ Project ini dibuat untuk:
    C:\xampp\htdocs\cloth_re
 4. Jalankan di browser : http://localhost/cloth_
 
-## 🧑‍💻 Teknologi yang Digunakan
-HTML5 : Struktur halaman website 
-CSS : Tampilan & layout
-JavaScript : Interaktivitas halaman 
-PHP : Backend logic & koneksi database 
-MySQL : Penyimpanan data produk & pengguna 
-XAMPP : Server lokal (Apache + MySQL) 
-VS Code : Code editor utama 
+## Teknologi yang Digunakan
+- HTML5 : Struktur halaman website 
+- CSS : Tampilan & layout
+- JavaScript : Interaktivitas halaman 
+- PHP : Backend logic & koneksi database 
+- MySQL : Penyimpanan data produk & pengguna 
+- XAMPP : Server lokal (Apache + MySQL) 
+- VS Code : Code editor utama 
 
-## Preview Tampilan
-- Tampilan utama
+## Tampilan Aplikasi
+Berikut adalah beberapa tampilan dari web Recloth :
+- Halaman Utama
+  ![Halaman Utama](screenshots/Tampilan Home.png)
+- Kategori Produk
+  ![Kategori Produk](screenshots/Tampilan kategori produk.png)
+- Tampilan Cart
+  ![Tampilan Cart](screenshots/Tampilan cart.png)
+- Keranjang Belanja
+  ![Keranjang Belanja](screenshots/Tampilan Keranjang.png)
+
+# Tentang Developer
+Mahasiswa yang sedang mempelajari pemrograman web dan pengelolaan database dengan PHP & MySQL.
+Project ini dibuat sebagai bagian dari proses belajar dan untuk memenuhi tugas perkuliahan mata kuliah Algoritma dan Pemrogaman II
