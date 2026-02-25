@@ -45,6 +45,6 @@ Berikut adalah beberapa tampilan dari web Recloth :
   ![Keranjang Belanja](screenshots/TampilanKeranjang.png)
 
 # Tentang Developer
+Michelle Aniela Wijaya
 Mahasiswa yang sedang mempelajari pemrograman web dan pengelolaan database dengan PHP & MySQL.
 Project ini dibuat sebagai bagian dari proses belajar dan untuk memenuhi tugas perkuliahan mata kuliah Algoritma dan Pemrogaman II
-
