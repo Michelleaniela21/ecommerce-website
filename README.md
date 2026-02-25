@@ -1,4 +1,4 @@
-# E-Commerce Website — "cloth_re"
+# E-Commerce Website "cloth_re"
 Website e-commerce sederhana yang dirancang untuk memudahkan pengguna dalam melihat, memilih, dan membeli produk pakaian secara online.  
 Project ini dikembangkan menggunakan HTML, CSS, JavaScript, PHP, dan MySQL (via XAMPP) sebagai media pembelajaran koneksi database dan sistem web dinamis.
 
@@ -36,14 +36,15 @@ Project ini dibuat untuk:
 ## Tampilan Aplikasi
 Berikut adalah beberapa tampilan dari web Recloth :
 - Halaman Utama
-  ![Halaman Utama](screenshots/Tampilan Home.png)
+  ![Halaman Utama](screenshots/TampilanHome.png)
 - Kategori Produk
-  ![Kategori Produk](screenshots/Tampilan kategori produk.png)
+  ![Kategori Produk](screenshots/Tampilankategoriproduk.png)
 - Tampilan Cart
-  ![Tampilan Cart](screenshots/Tampilan cart.png)
+  ![Tampilan Cart](screenshots/Tampilancart.png)
 - Keranjang Belanja
-  ![Keranjang Belanja](screenshots/Tampilan Keranjang.png)
+  ![Keranjang Belanja](screenshots/TampilanKeranjang.png)
 
 # Tentang Developer
 Mahasiswa yang sedang mempelajari pemrograman web dan pengelolaan database dengan PHP & MySQL.
 Project ini dibuat sebagai bagian dari proses belajar dan untuk memenuhi tugas perkuliahan mata kuliah Algoritma dan Pemrogaman II
+
