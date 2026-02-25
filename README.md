@@ -36,13 +36,13 @@ Project ini dibuat untuk:
 ## Tampilan Aplikasi
 Berikut adalah beberapa tampilan dari web Recloth :
 - Halaman Utama
-  ![Halaman Utama](screenshots/TampilanHome.png)
+  ![Home](screenshots/Home.png)
 - Kategori Produk
-  ![Kategori Produk](screenshots/Tampilankategoriproduk.png)
+  ![Kategori](screenshots/category.png)
 - Tampilan Cart
-  ![Tampilan Cart](screenshots/Tampilancart.png)
+  ![Cart](screenshots/Cart.png)
 - Keranjang Belanja
-  ![Keranjang Belanja](screenshots/TampilanKeranjang.png)
+  ![Keranjang](screenshots/Keranjang.png)
 
 # Tentang Developer
 Michelle Aniela Wijaya
